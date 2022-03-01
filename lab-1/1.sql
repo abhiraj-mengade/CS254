@@ -8,7 +8,6 @@ INSERT INTO FLIGHT VALUES(2,'Sri-Lanka','India',600,'7:00','10:00');
 INSERT INTO FLIGHT VALUES(3,'Frankfurt','Saudi',2000,'8:00','21:00');
 INSERT INTO FLIGHT VALUES(4,'Sydney','Los-Angeles',3000,'10:00','22:00');
 INSERT INTO FLIGHT VALUES(5,'India','Laos',2300,'11:00','13:00');
-COMMIT;
 
 /* Display all the records from the table */
 -- SELECT * FROM FLIGHT;
